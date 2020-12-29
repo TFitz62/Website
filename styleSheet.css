@@ -1,0 +1,44 @@
+
+body {
+    background:#CCC;
+    margin:0;
+    padding:0;
+    font-family:Helvetica, Arial;
+}
+a {
+    text-decoration:none;
+    color:#444;
+}
+
+.container {
+    background:#FFF;
+    width:960px;
+    margin:0 auto;
+}
+
+.header{
+    padding:20px;
+    background:#F1F1F1;
+    border-bottom:1px solid #999;
+}
+
+.leftColumn{
+    padding:20px;
+    float:left;
+    width:500px;
+}
+
+.rightColumn{
+    padding:20px;
+    float:right;
+    width:300px;
+    background:#F9F9F9;
+    border-left:1px solid #999;
+
+}
+.footer {
+    padding:20px;
+    clear:both;
+    background:#F9F9F9;
+    border-top:1px solid #999;
+}
